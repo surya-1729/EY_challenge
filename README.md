@@ -1,3 +1,5 @@
+ 2025 EY Open Science AI and Data Challenge: Cooling Urban Heat Islands : 
+
 Challenge:
 
 The 2025 AI & data challenge is focused on a phenomenon known as the urban heat island effect, a situation that occurs due to the high density of buildings and lack of green space and water bodies in urban areas. Temperature variations between rural and urban environments can exceed 10-degrees Celsius in some cases and cause significant health-, social- and energy-related issues. Those particularly vulnerable to heat-related problems include young children, older adults, outdoor workers, and low-income populations.
